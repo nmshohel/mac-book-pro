@@ -1,0 +1,27 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+}
+.all-button {
+  padding: 5px 10px;
+
+  font-weight: 400;
+  border-radius: 5px;
+  background-color: beige;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  font-size: 14px;
+}
+.all-button:hover {
+  background-color: rgb(175, 170, 170);
+}
+footer {
+  margin: 30px 30px;
+  text-align: center;
+  border-top: 1px solid cornsilk;
+}
+.product-delivery {
+  border-bottom: 2px solid gray;
+}
